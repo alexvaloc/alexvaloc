@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is AlejandraValencia</h1>
+<h1 align="center">Hi 👋, My name is Alejandra Valencia</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
 - 🌱 I’m currently learning **Angular17**
